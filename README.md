@@ -1,7 +1,7 @@
 # MyGameinC
 CENG209HW
-A TEXT-BASED ADVENTURE GAME in C
- The player navigates a defined coordinate space within a room that contains various items such as food and arrows. Occasionally, a monster may also be present in the box in the room. If a monster appears, the player must defeat it by shooting arrows. Failing to do so will result in the monster attacking and ultimately killing the player.
+A TEXT-BASED ADVENTURE GAME in C.
+The player navigates a defined coordinate space within a room that contains various items such as food and arrows. Occasionally, a monster may also be present in the box in the room. If a monster appears, the player must defeat it by shooting arrows. Failing to do so will result in the monster attacking and ultimately killing the player.
 How the Game Works
 The player starts at the origin (0, 0), can move in different directions [M (Move), L (Turn Left), R (Turn Right), B (Go Back)] or can jump(J), look around(L) ,shoot an arrow (S).
 A box in the room can contain either a monster or be clean.
